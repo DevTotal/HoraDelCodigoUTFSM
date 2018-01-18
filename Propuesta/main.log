@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.2)  18 JAN 2018 10:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.2)  18 JAN 2018 12:28
 entering extended mode
 **./main.tex
 (main.tex
@@ -877,13 +877,13 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-<logou.png, id=47, 1003.75pt x 147.55125pt>
+<logou.png, id=51, 1003.75pt x 147.55125pt>
 File: logou.png Graphic file (type png)
 <use logou.png>
 Package pdftex.def Info: logou.png  used on input line 43. on input line 43.
 Package pdftex.def Info: Requested size: 187.89914pt x 27.62076pt on input line
  43.
-<logo.png, id=49, 290.08376pt x 290.08376pt>
+<logo.png, id=53, 290.08376pt x 290.08376pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 45. on input line 45.
@@ -1042,7 +1042,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 106.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 106.
-<salas.png, id=65, 958.58125pt x 752.8125pt>
+<salas.png, id=69, 958.58125pt x 752.8125pt>
 File: salas.png Graphic file (type png)
 <use salas.png>
 Package pdftex.def Info: salas.png  used on input line 112. on input line 112.
@@ -1105,7 +1105,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 121.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 121.
-<diploma.jpg, id=73, 845.0772pt x 595.023pt>
+<diploma.jpg, id=77, 845.0772pt x 595.023pt>
 File: diploma.jpg Graphic file (type jpg)
 <use diploma.jpg>
 Package pdftex.def Info: diploma.jpg  used on input line 127. on input line 127
@@ -1124,7 +1124,7 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 131.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 131.
-<poleras.png, id=75, 564.60938pt x 437.635pt>
+<poleras.png, id=79, 564.60938pt x 437.635pt>
 File: poleras.png Graphic file (type png)
 <use poleras.png>
 Package pdftex.def Info: poleras.png  used on input line 137. on input line 137
@@ -1149,7 +1149,7 @@ Overfull \hbox (29.72385pt too wide) in paragraph at lines 143--144
 -tes, ya sea el lo-go de \OT1/cmtt/m/n/12 LaHoraDelCodigo
  []
 
-<sticker.png, id=76, 793.96625pt x 290.08376pt>
+<sticker.png, id=80, 793.96625pt x 290.08376pt>
 File: sticker.png Graphic file (type png)
 <use sticker.png>
 Package pdftex.def Info: sticker.png  used on input line 147. on input line 147
@@ -1205,7 +1205,6 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 151.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 151.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 155.
 Package babel Info: Redefining spanish shorthand <<
 (babel)             in language  on input line 155.
 Package babel Info: Redefining spanish shorthand >>
@@ -1218,41 +1217,54 @@ Package babel Info: Redefining spanish shorthand "!
 (babel)             in language  on input line 155.
 Package babel Info: Redefining spanish shorthand "?
 (babel)             in language  on input line 155.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 159.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 159.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 159.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 159.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 159.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 159.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language  on input line 159.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language  on input line 159.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language  on input line 159.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language  on input line 159.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language  on input line 159.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language  on input line 159.
  [4pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.155 \end{document}
+l.159 \end{document}
                      <./sticker.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 155.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
  (main.aux
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3505CCDFB4AB28E1F0E68D1AE67882CF;559.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 155.
+(rerunfilecheck)             Checksum: E1BA80A11AC45BE51A3854E7D332BD31;615.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
  ) 
 Here is how much of TeX's memory you used:
- 9737 strings out of 493312
- 138058 string characters out of 3138884
+ 9740 strings out of 493312
+ 138156 string characters out of 3138884
  253313 words of memory out of 3000000
- 13066 multiletter control sequences out of 15000+200000
+ 13068 multiletter control sequences out of 15000+200000
  22429 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,9n,39p,601b,378s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1261,9 +1273,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
 rw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
 vro8a.pfb>
-Output written on main.pdf (5 pages, 3456734 bytes).
+Output written on main.pdf (5 pages, 3458504 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
